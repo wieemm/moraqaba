@@ -1,0 +1,7 @@
+{
+  "name": "Moraqaba AI - SmartGov Platform",
+  "description": "Une plateforme intelligente de supervision, de suivi et d’analyse de la présence du personnel de santé utilisant la reconnaissance faciale et l'IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
